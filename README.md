@@ -12,7 +12,25 @@ Cohort Intelligence ( CI ) is an optimization technique. It attempts to model th
 2. Dixon and Price Function
 3. Sphere Function 
 
-### 1. Colville Function :
+### 1. Branin Function :
+
+The following [site](http://www.sfu.ca/~ssurjano/branin.html) provides data about Branin Function.
+
+3D plot of Sphere Function :
+
+![](Branin-3D.png)
+
+The output of Branin Function using CI approach is provided below :
+
+- Output with 50 Learning Attempts : 
+
+![](Branin-Function-SS-2.png)
+
+- Output with 500 Learning Attempts : 
+
+![](Branin-Function-SS-1.png)
+
+### 2. Colville Function :
 
 The following [site](http://www.sfu.ca/~ssurjano/colville.html) provides data about Colville Function.
 
@@ -26,7 +44,7 @@ The output of Colville Function using CI approach is provided below :
 
 ![](Colville-Function.png)
 
-### 2. Dixon and Price Function :
+### 3. Dixon and Price Function :
 
 The following [site](http://www.sfu.ca/~ssurjano/dixonpr.html) provides data about Dixon and Price Function.
 
@@ -38,7 +56,7 @@ The output of Colville Function using CI approach is provided below :
 
 ![](Dixon-and-Price-Function.png)
 
-### 3. Sphere Function :
+### 4. Sphere Function :
 
 The following [site](https://www.sfu.ca/~ssurjano/spheref.html) provides data about Dixon and Price Function.
 
@@ -49,3 +67,4 @@ The following [site](https://www.sfu.ca/~ssurjano/spheref.html) provides data ab
 The output of Colville Function using CI approach is provided below :
 
 ![](Sphere-Function.png)
+
