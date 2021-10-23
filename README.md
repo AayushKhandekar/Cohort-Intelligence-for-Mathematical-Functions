@@ -8,9 +8,11 @@ Cohort Intelligence ( CI ) is an optimization technique. It attempts to model th
 
 ### This repository contains the following functions solved using Cohort Intelligence :
 
-1. Colville Function
-2. Dixon and Price Function
-3. Sphere Function 
+1. Branin Function
+2. Colville Function
+3. Dixon and Price Function
+4. Sphere Function 
+5. Shubert Function
 
 ### 1. Branin Function :
 
@@ -52,19 +54,34 @@ The following [site](http://www.sfu.ca/~ssurjano/dixonpr.html) provides data abo
 
 ![](Dixon-and-Price-3D.jpeg)
 
-The output of Colville Function using CI approach is provided below :
+The output of Dixon-and-Price Function using CI approach is provided below :
 
 ![](Dixon-and-Price-Function.png)
 
 ### 4. Sphere Function :
 
-The following [site](https://www.sfu.ca/~ssurjano/spheref.html) provides data about Dixon and Price Function.
+The following [site](https://www.sfu.ca/~ssurjano/spheref.html) provides data about Sphere Function.
 
 3D plot of Sphere Function :
 
 ![](Sphere-3D.jpeg)
 
-The output of Colville Function using CI approach is provided below :
+The output of Sphere Function using CI approach is provided below :
 
 ![](Sphere-Function.png)
+
+### 5. Shubert Function :
+
+The following [site](https://www.sfu.ca/~ssurjano/shubert.html) provides data about Shubert Function.
+
+3D plot of Shubert Function :
+
+![](Shubert-3D.png)
+
+The output of Shubert Function using CI approach is provided below :
+
+![](Shubert-Function-SS-1.png)
+
+![](Shubert-Function-SS-2.png)
+
 
