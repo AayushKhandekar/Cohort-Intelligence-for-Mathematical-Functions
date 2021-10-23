@@ -18,7 +18,7 @@ Cohort Intelligence ( CI ) is an optimization technique. It attempts to model th
 
 The following [site](http://www.sfu.ca/~ssurjano/branin.html) provides data about Branin Function.
 
-3D plot of Sphere Function :
+3D plot of Branin Function :
 
 ![](Branin-3D.png)
 
